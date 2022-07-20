@@ -1,0 +1,37 @@
+*{
+	margin: 0px;
+	border:border-box;
+	padding: 0px;
+
+
+}
+.wrapper{
+	max-width: 1400px;
+	margin: 0px auto;
+	text-align: center;
+	background-color: rgb(140,255,140);
+}
+header{
+	padding: 15px 0px ;
+}
+hr{
+	margin: 0px;
+		
+}
+.wrapper .banner form{
+	padding-top: 35px;
+	height: 100%;
+	margin-top: 0px; 
+	display: inline-block;
+	text-align: left;
+	padding-bottom: 35px;
+}
+.wrapper .banner .registration{
+	width: 700px;
+}
+.form-control{
+	border:1px black solid;
+}
+.btn{
+	margin-right:1px; 
+}
